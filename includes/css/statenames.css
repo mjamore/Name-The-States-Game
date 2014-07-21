@@ -1,0 +1,103 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: Georgia;
+}
+
+body {
+	background-color: #3C0000;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	margin: 20px 0 30px 0;
+	text-shadow: 1px 1px #35CFFF;
+	letter-spacing: 1px;
+}
+
+p#description {
+	color: white;
+	text-align: center;
+	letter-spacing: 1px;
+	text-shadow: 1px 1px #35CFFF;
+}
+
+div#inputContainer {
+	width: 380px;
+	height: 50px;
+	margin: 20px auto;
+}
+
+label {
+	color: white;
+	letter-spacing: 1px;
+}
+
+input {
+	width: 380px;
+}
+
+button#checkStateBtn {
+	width: 380px;
+	padding: 4px;
+}
+
+div#resultsContainer {
+	background-color: #292626;
+	width: 593px;
+	margin: 50px auto;
+	/* margin-top: 50px; */
+}
+
+td {
+	color: white;
+	padding: 5px;
+	text-align: center;
+	visibility: hidden; 
+}
+
+div#resetBtnContainer {
+	width: 72px;
+	margin: 0 auto;
+}
+
+button#resetBtn {
+	padding: 4px;
+}
+
+div#showRemainingStatesBtnContainer {
+	width: 128px;
+	margin: 0 auto;
+}
+
+button#showRemainingStatesBtn {
+	padding: 4px;
+}
+
+.unfound {
+	color: red !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
